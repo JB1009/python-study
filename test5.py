@@ -94,7 +94,8 @@ gender = input("성별 : ")
 member.append([name,tel,gender])
 
 
-
+#
+#네이버 7 다음 7 구글6
 
 
 # for i in range(len(member)):
